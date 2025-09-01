@@ -30,7 +30,7 @@ Hello! I'm Mohammed Shalaby, a dedicated Back-End Developer with a strong founda
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalaby122&show_icons=true&theme=radical)  
 
 ---
 
