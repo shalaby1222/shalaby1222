@@ -1,40 +1,50 @@
 # Hi There 👋, I'm Mohammed Shalaby
 
-I'm a **Back-End PHP Developer** from **6th of October, Egypt**, passionate about building practical and efficient web solutions.
+I'm a **Back-End PHP Developer** from **6th of October, Egypt**, passionate about building practical and efficient web solutions.  
 
 ---
 
-## About Me
-Hello! I'm Mohammed Shalaby, a dedicated Back-End Developer with a strong foundation in PHP and MySQL. I love tackling challenges in web development and continuously improving my skills to deliver robust and secure applications. Here’s a bit more about me:
+## 👨‍💻 About Me
+🚀 **Driven by Innovation:** Always exploring new technologies to optimize workflows and create impactful solutions.  
 
-🚀 **Driven by Innovation:** I constantly explore new technologies and techniques to optimize workflows and create impactful solutions.  
+🎯 **Focused on Growth:** Diving deeper into PHP, MySQL, and backend best practices.  
 
-🎯 **Focused on Growth:** I'm diving deeper into PHP, MySQL, and backend best practices to enhance my projects. I believe continuous learning is key in the fast-paced world of tech.  
+💡 **Creative and Analytical:** I love writing clean, maintainable code and solving problems logically and creatively.  
 
-💡 **Creative and Analytical:** I enjoy designing systems that are both functional and efficient, writing clean, maintainable code, and solving problems logically and creatively.  
+🛠️ **Project-Oriented:** Built **Student Management Systems** and **To-Do List Apps**, focusing on database management, validation, and security.  
 
-🛠️ **Project-Oriented:** I've built various projects, from **Student Management Systems** to **To-Do List Apps**, refining my skills in database management, form validation, and application security.  
+🌐 **Team Player:** I value collaboration, communication, and knowledge sharing.  
 
-🌐 **Team Player:** Collaboration is essential for great projects. I value communication, learning from others, and sharing my knowledge to achieve the best results.  
-
-🌍 **Fun Fact:** Outside of coding, I enjoy exploring new programming challenges and experimenting with small projects to test my skills.
+🌍 **Fun Fact:** Outside coding, I enjoy experimenting with small projects and challenges.  
 
 ---
 
-## Languages and Tools
-- PHP, MySQL  
-- HTML5, CSS3, JavaScript  
-- Bootstrap  
-- Form Validation & Security Practices
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Validation%20&%20Security-323330?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalaby1222&show_icons=true&theme=radical)
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalaby1222&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-## Connect with Me
-- [LinkedIn](www.linkedin.com/in/moredash)  
-- [Email](momoshalaby46@gamil.com)
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/moredash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:momoshalaby46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
