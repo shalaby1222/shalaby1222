@@ -1,41 +1,64 @@
 # Hi There 👋, I'm Mohammed Shalaby
 
-I'm a **Back-End PHP Developer** from **6th of October, Egypt**, passionate about building practical and efficient web solutions.  
+I'm an **Aspiring Back-End .NET Developer** with a solid background in **PHP & Laravel**, based in **6th of October, Egypt**.  
+Currently transitioning my focus to **C# and .NET technologies** while building strong backend fundamentals.
 
 ---
 
 ## 👨‍💻 About Me
-🚀 **Driven by Innovation:** Always exploring new technologies to optimize workflows and create impactful solutions.  
 
-🎯 **Focused on Growth:** Diving deeper into PHP, MySQL, and backend best practices.  
+🚀 **Driven by Innovation:** Always exploring new technologies and tools to build efficient and scalable backend solutions.  
 
-💡 **Creative and Analytical:** I love writing clean, maintainable code and solving problems logically and creatively.  
+🎯 **Focused on Growth:** Built a strong backend foundation using PHP and MySQL, and currently learning C# and .NET to advance my backend career.  
 
-🛠️ **Project-Oriented:** Built **Student Management Systems** and **To-Do List Apps**, focusing on database management, validation, and security.  
+💡 **Creative and Analytical:** I enjoy writing clean, maintainable code and solving problems using logical and structured thinking.  
 
-🌐 **Team Player:** I value collaboration, communication, and knowledge sharing.  
+🛠️ **Project-Oriented:** Built **Student Management Systems** and **To-Do List Applications**, focusing on database design, validation, and backend security.  
 
-🌍 **Fun Fact:** Outside coding, I enjoy experimenting with small projects and challenges.  
+🌐 **Team Player:** I value collaboration, communication, and continuous knowledge sharing.  
 
----
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Validation%20&%20Security-323330?style=for-the-badge&logo=shield&logoColor=white" />
-</p>
+🌍 **Fun Fact:** I enjoy experimenting with small backend projects and coding challenges to sharpen my skills.  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalaby1222&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🛠️ Technologies & Tools
+
+### Back-End & Databases
+- SQL  
+- MySQL  
+- Database Design  
+- CRUD Operations  
+- Validation & Security  
+
+### .NET & C# (Learning)
+- C# Fundamentals
+- .NET Core
+- ASP.NET Core
+- Object-Oriented Programming (OOP)
+- LINQ (Basics)
+- Entity Framework Core (Basics)
+- RESTful APIs (Concepts)
+- Authentication & Authorization (Concepts)
+- Dependency Injection (Basics)
+
+
+### Programming & Web Fundamentals
+- PHP  
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+
+---
+
+## 📌 Projects
+- **Student Management System**  
+  Backend-focused project handling CRUD operations, database management, and validation.
+
+- **To-Do List Application**  
+  Backend application focusing on data persistence, clean code, and security concepts.
+
+> More .NET projects will be added as I continue learning and building.
 
 ---
 
