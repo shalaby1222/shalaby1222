@@ -1,64 +1,60 @@
 # Hi There 👋, I'm Mohammed Shalaby
 
-I'm an **Aspiring Back-End .NET Developer** with a solid background in **PHP & Laravel**, based in **6th of October, Egypt**.  
-Currently transitioning my focus to **C# and .NET technologies** while building strong backend fundamentals.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=435&lines=.NET+Developer;Full-Stack+Web+Developer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 **Driven by Innovation:** Always exploring new technologies and tools to build efficient and scalable backend solutions.  
+I'm a **.NET Developer** specializing in building robust, scalable backend systems. My approach combines academic depth with practical enterprise patterns.
 
-🎯 **Focused on Growth:** Built a strong backend foundation using PHP and MySQL, and currently learning C# and .NET to advance my backend career.  
-
-💡 **Creative and Analytical:** I enjoy writing clean, maintainable code and solving problems using logical and structured thinking.  
-
-🛠️ **Project-Oriented:** Built **Student Management Systems** and **To-Do List Applications**, focusing on database design, validation, and backend security.  
-
-🌐 **Team Player:** I value collaboration, communication, and continuous knowledge sharing.  
-
-🌍 **Fun Fact:** I enjoy experimenting with small backend projects and coding challenges to sharpen my skills.  
+* 🏗️ **Architecture:** Strong advocate for **Clean Architecture**, **Repository Pattern**, and **Unit of Work**.
+* 🛡️ **Security:** Experienced in **ASP.NET Core Identity**, **JWT**, and **RBAC**.
+* 🎓 **Academic:** Currently in my penultimate year of CS, exploring **Compiler Design** and **Computer Graphics (OpenGL)**.
+* ✍️ **Technical Sharing:** I document my journey and share technical project demos on **LinkedIn**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Back-End & Databases
-- SQL  
-- MySQL  
-- Database Design  
-- CRUD Operations  
-- Validation & Security  
-
-### .NET & C# (Learning)
-- C# Fundamentals
-- .NET Core
-- ASP.NET Core
-- Object-Oriented Programming (OOP)
-- LINQ (Basics)
-- Entity Framework Core (Basics)
-- RESTful APIs (Concepts)
-- Authentication & Authorization (Concepts)
-- Dependency Injection (Basics)
-
-
-### Programming & Web Fundamentals
-- PHP  
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,aspnet,php,laravel" alt="Backend" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,git,github,visualstudio,vscode" alt="Tools" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+</p>
 
 ---
 
-## 📌 Projects
-- **Student Management System**  
-  Backend-focused project handling CRUD operations, database management, and validation.
+## 📌 Featured Projects
 
-- **To-Do List Application**  
-  Backend application focusing on data persistence, clean code, and security concepts.
+### 🛒 Multi-Vendor Marketplace
+*A comprehensive e-commerce ecosystem built with **ASP.NET Core 8 MVC**.*
+- **Architecture:** Clean Architecture & Unit of Work.
+- **Features:** Vendor Dashboard, Shopping Cart, Stripe Integration.
+- **Security:** Identity Framework with Role-Based Access Control.
+- [**View Code**](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git) | [**Watch Demo**](https://www.linkedin.com/posts/moredash_dotnet-aspnetcore-csharp-ugcPost-7449073485743775745-lyBT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgPYCwB3I5QlFOcsqEpbRSsG5SM0ZPE8Ws)
 
-> More .NET projects will be added as I continue learning and building.
+### 🏗️ Mini-Language Interpreter
+*A custom compiler/interpreter developed using **Lex & Yacc**.*
+- Supports arithmetic operations and variable scope management.
+---
+
+## 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalaby1222&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalaby1222&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
