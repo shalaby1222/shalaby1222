@@ -1,15 +1,20 @@
-# Hi There 👋, I'm Mohammed Shalaby
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=200&section=header&text=Mohammed%20Shalaby&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=435&lines=Greetings%2C+Earthling!+👋;.NET+Backend+Developer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=435&lines=.NET+Developer;Full-Stack+Web+Developer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/moredash" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:momoshalaby46@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+</div>
 
 ---
 
@@ -27,27 +32,28 @@ I'm a **.NET Developer** specializing in building robust, scalable backend syste
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,aspnet,php,laravel" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,aspnet,mssql,mysql" alt="Backend & DB" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql,git,github,visualstudio,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap" alt="Web Tech" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" alt="Tools" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Multi-Vendor Marketplace
+### 🛒 [Multi-Vendor Marketplace](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git)
 *A comprehensive e-commerce ecosystem built with **ASP.NET Core 8 MVC**.*
-- **Architecture:** Clean Architecture & Unit of Work.
-- **Features:** Vendor Dashboard, Shopping Cart, Stripe Integration.
-- **Security:** Identity Framework with Role-Based Access Control.
-- [**View Code**](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git) | [**Watch Demo**](https://www.linkedin.com/posts/moredash_dotnet-aspnetcore-csharp-ugcPost-7449073485743775745-lyBT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgPYCwB3I5QlFOcsqEpbRSsG5SM0ZPE8Ws)
+- **Architecture:** Clean Architecture & Unit of Work implementation.
+- **Features:** Vendor Dashboard, Shopping Cart, and Stripe Payment Integration.
+- **Security:** Managed via ASP.NET Core Identity with role-based permissions.
+- [**📂 View Code**](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git) | [**📺 Watch Demo**](https://www.linkedin.com/posts/moredash_dotnet-aspnetcore-csharp-ugcPost-7449073485743775745-lyBT)
 
-### 🏗️ Mini-Language Interpreter
+### 🏗️ [Mini-Language Interpreter](https://github.com/shalaby1222)
 *A custom compiler/interpreter developed using **Lex & Yacc**.*
 - Supports arithmetic operations and variable scope management.
+
 ---
 
 ## 📊 GitHub Ecosystem
@@ -56,14 +62,9 @@ I'm a **.NET Developer** specializing in building robust, scalable backend syste
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalaby1222&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/moredash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:momoshalaby46@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalaby1222&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+<p align="center">🚀 Keep coding, keep improving.</p>
