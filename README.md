@@ -1,73 +1,168 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=200&section=header&text=Mohammed%20Shalaby&fontSize=70&animation=fadeIn&fontAlignY=38" />
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=512BD4&center=true&vCenter=true&width=435&lines=Greetings%2C+Earthling!+👋;.NET+Backend+Developer;Problem+Solver" alt="Typing SVG" />
-  </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/moredash" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:momoshalaby46@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7F52FF&height=220&section=header&text=Mohamed%20Shalaby&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=.NET+Backend+Developer;ASP.NET+Core+%7C+Web+APIs+%7C+EF+Core;Building+Clean+%26+Scalable+Backend+Systems;Always+Learning.+Always+Building." />
+
+<br>
+
+<a href="https://www.linkedin.com/in/moredash">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:momoshalaby46@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shalaby1222">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shalaby1222&label=Profile%20Views&color=512BD4&style=for-the-badge"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **.NET Developer** specializing in building robust, scalable backend systems. My approach combines academic depth with practical enterprise patterns.
+I'm a **Computer Science Student & .NET Backend Developer** focused on building reliable and maintainable backend systems.
 
-* 🏗️ **Architecture:** Strong advocate for architectural best practices, **Repository Pattern**, and **Unit of Work**.
-* 🛡️ **Security:** Experienced in **ASP.NET Core Identity**, **JWT**, and **RBAC**.
-* 🎓 **Academic:** Currently in my **final year** of Computer Science, exploring **Compiler Design** and **Competitive Programming**.
-* ✍️ **Technical Sharing:** I document my journey and share technical project demos on **LinkedIn**.
+My main focus is **C# and ASP.NET Core**, with a strong interest in backend architecture, database design, authentication, performance, and scalable APIs.
+
+### ⚡ Backend Focus
+
+* 🔹 **C# & ASP.NET Core**
+* 🔹 **RESTful Web APIs**
+* 🔹 **Entity Framework Core & LINQ**
+* 🔹 **SQL Server & MySQL**
+* 🔹 **JWT Authentication & RBAC**
+* 🔹 **Clean Architecture**
+* 🔹 **Repository & Unit of Work**
+* 🔹 **Dependency Injection**
+* 🔹 **System Design & Performance**
+
+### 🎯 Current Goal
+
+> Become a strong **Backend Software Engineer** by building real-world systems and continuously improving my software engineering fundamentals.
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,aspnet,mssql,mysql" alt="Backend & DB" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap" alt="Web Tech" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" alt="Tools" />
-</p>
+<div align="center">
+
+### 💻 Primary Stack & Backend
+<!-- هنا جمعنا كل أيقونات الباك إند والـ APIs مع بعض عشان نمنع التكرار -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,swagger,postman,jwt" />
+
+<br><br>
+
+### 🗄️ Databases & Data Access
+<img src="https://skillicons.dev/icons?i=mssql,mysql" />
+
+<br><br>
+
+### 🏗️ Other Technologies, Tools & Environment
+<!-- هنا جمعنا الويب، الأدوات، البيئة، والتقنيات الإضافية -->
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,bootstrap,git,github,docker,visualstudio,vscode" />
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 [VitaCare — Clinic Management System Suite](https://github.com/shalaby1222/ClinicManagementSystem-Backend.git)
-*An enterprise-grade healthcare management API built using **.NET 10**.*
-- **Advanced Features:** Localized asynchronous stream via **SignalR WebSockets** for real-time live clinic dashboard alerts.
-- **Data Integrity:** Transactional multi-stage account onboarding blocks coupled with customized Fluent API rules (`DeleteBehavior.Restrict`).
-- **Security:** Fully protected endpoints via custom **JWT Bearer Authentication** and strict **Role-Based Access Control (RBAC)**.
-- [**📂 View Code**](https://github.com/shalaby1222/ClinicManagementSystem-Backend.git)
+<div align="center">
 
-### 🛒 [Multi-Vendor Marketplace](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git)
-*A comprehensive e-commerce ecosystem built with **ASP.NET Core MVC**.*
-- **Architecture:** Decoupled data layer utilizing **Repository Pattern & Unit of Work**.
-- **Features:** Vendor Management, Dynamic Shopping Cart, and **Stripe API Payment Integration**.
-- **Security:** Secured authorization managed via ASP.NET Core Identity.
-- [**📂 View Code**](https://github.com/shalaby1222/Multi-Vendor-Marketplace.git) | [**📺 Watch Demo**](https://www.linkedin.com/posts/moredash_dotnet-aspnetcore-csharp-ugcPost-7449073485743775745-lyBT)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏥 VitaCare</h3>
+
+<b>Clinic Management System</b>
+<br><br>
+A backend-focused healthcare management system built with modern .NET technologies.
+<br><br>
+<b>Core Technologies</b>
+<br>
+<!-- عدلتلك الإصدار ليكون .NET 9 ليكون أكثر واقعية -->
+<code>.NET 9</code> <code>ASP.NET Core</code> <code>EF Core</code> <code>SQL Server</code> <code>JWT</code> <code>SignalR</code>
+<br><br>
+<a href="https://github.com/shalaby1222/ClinicManagementSystem-Backend">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛒 Multi-Vendor Marketplace</h3>
+
+<b>E-Commerce Platform</b>
+<br><br>
+A multi-vendor marketplace built with ASP.NET Core MVC and integrated payment processing.
+<br><br>
+<b>Core Technologies</b>
+<br>
+<code>ASP.NET Core MVC</code> <code>EF Core</code> <code>Identity</code> <code>SQL Server</code> <code>Stripe</code>
+<br><br>
+<a href="https://github.com/shalaby1222/Multi-Vendor-Marketplace">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-512BD4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalaby1222&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalaby1222&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalaby1222&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shalaby1222&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalaby1222&theme=tokyonight" width="95%"/>
+
+</div>
 
 ---
-<p align="center">🚀 Keep coding, keep improving.</p>
+
+## 💻 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shalaby1222&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shalaby1222&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Advanced+ASP.NET+Core;System+Design;Database+Optimization;Design+Patterns;Clean+Architecture;Competitive+Programming"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Learn. Improve.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:512BD4&height=120&section=footer" width="100%"/>
+
+</div>
